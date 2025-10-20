@@ -6,7 +6,7 @@ Assets used by my experimental custom osu! (Project Yomi).
 
 ## Requirements
 
-This is a dependency of [my experimental custom osu! (Project Yomi)](https://github.com/BoomboxRapsody/osu) and intended to be used as a NuGet package only.
+This is a dependency of [my experimental custom osu! (Project Yomi)](https://github.com/BoomboxRapsody/ProjectYomi) and intended to be used as a NuGet package only.
 
 ## Licence
 
