@@ -1,12 +1,12 @@
-# osu!resources
+# Project Yomi resources
 
 [![Build status](https://ci.appveyor.com/api/projects/status/github/ppy/osu?svg=true)](https://ci.appveyor.com/project/peppy/osu-resources) [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
-Assets used by osu!.
+Assets used by my Experimental custom osu! (Project Yomi).
 
 ## Requirements
 
-This is a dependency of [osu!](https://github.com/ppy/osu) and intended to be used as a NuGet package only.
+This is a dependency of [my experimental custom osu! (Project Yomi)](https://github.com/BoomboxRapsody/osu) and intended to be used as a NuGet package only.
 
 ## Licence
 
