@@ -154,4 +154,7 @@
   <data name="selected_mods" xml:space="preserve">
     <value>Selected Mods</value>
   </data>
+  <data name="ApplyModTrackAdjustments" xml:space="preserve">
+    <value>Apply mod track adjustments to main menu</value>
+  </data>
 </root>

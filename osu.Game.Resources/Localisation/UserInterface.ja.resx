@@ -148,4 +148,7 @@
   <data name="true_random" xml:space="preserve">
     <value>ランダムを有効化する</value>
   </data>
+  <data name="ApplyModTrackAdjustments" xml:space="preserve">
+    <value>メインメニューにmodトラック調整を適用します</value>
+  </data>
 </root>

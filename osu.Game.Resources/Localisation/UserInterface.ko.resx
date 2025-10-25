@@ -154,4 +154,7 @@
   <data name="selected_mods" xml:space="preserve">
     <value>선택된 모드</value>
   </data>
+  <data name="ApplyModTrackAdjustments" xml:space="preserve">
+    <value>메인 메뉴에 모드 트랙 조정 적용</value>
+  </data>
 </root>
