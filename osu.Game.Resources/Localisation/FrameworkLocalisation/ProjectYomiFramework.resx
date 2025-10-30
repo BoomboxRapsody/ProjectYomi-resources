@@ -161,4 +161,17 @@
   <data name="osuframework_osd_IgnoredInputHandlers_off" xml:space="preserve">
     <value>disabled</value>
   </data>
+
+  <data name="FPSDisplay_Input" xml:space="preserve">
+    <value>Input</value>
+  </data>
+  <data name="FPSDisplay_Audio" xml:space="preserve">
+    <value>Audio</value>
+  </data>
+  <data name="FPSDisplay_Update" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="FPSDisplay_Draw" xml:space="preserve">
+    <value>Draw</value>
+  </data>
 </root>

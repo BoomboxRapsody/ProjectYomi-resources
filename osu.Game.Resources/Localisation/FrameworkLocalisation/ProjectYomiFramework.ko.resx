@@ -158,4 +158,16 @@
     <value>꺼짐</value>
   </data>
 
+  <data name="FPSDisplay_Input" xml:space="preserve">
+    <value>입력</value>
+  </data>
+  <data name="FPSDisplay_Audio" xml:space="preserve">
+    <value>오디오</value>
+  </data>
+  <data name="FPSDisplay_Update" xml:space="preserve">
+    <value>업데이트</value>
+  </data>
+  <data name="FPSDisplay_Draw" xml:space="preserve">
+    <value>드로잉</value>
+  </data>
 </root>
