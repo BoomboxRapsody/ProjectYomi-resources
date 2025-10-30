@@ -60,102 +60,105 @@
   </resheader>
   
   <data name="AudioSettings" xml:space="preserve">
-    <value>오디오 설정</value>
+    <value>オーディオ設定</value>
   </data>
   
   <data name="PlaybackSettings" xml:space="preserve">
-    <value>리플레이 재생</value>
+    <value>再生</value>
   </data>
   <data name="PlaybackSettings_PlaybackRate" xml:space="preserve">
-    <value>재생 속도</value>
+    <value>再生速度</value>
   </data>
   
   <data name="VisualSettings" xml:space="preserve">
-    <value>비주얼 설정</value>
+    <value>ビジュアル設定</value>
+  </data>
+  
+  <data name="InputSettings" xml:space="preserve">
+    <value>入力設定</value>
   </data>
   
   <data name="osuframework_vsync" xml:space="preserve">
-    <value>수직 동기화</value>
+    <value>VSync</value>
   </data>
   <data name="osuframework_limit2x" xml:space="preserve">
-    <value>모니터 주사율의 2배</value>
+    <value>2 倍のリフレッシュレート</value>
   </data>
   <data name="osuframework_limit4x" xml:space="preserve">
-    <value>모니터 주사율의 4배</value>
+    <value>4 倍のリフレッシュレート</value>
   </data>
   <data name="osuframework_limit8x" xml:space="preserve">
-    <value>모니터 주사율의 8배</value>
+    <value>8 倍のリフレッシュレート</value>
   </data>
   <data name="osuframework_limitUnlimited" xml:space="preserve">
-    <value>기본적인 무제한</value>
+    <value>基本的に無制限</value>
   </data>
   
   <data name="random" xml:space="preserve">
-    <value>무작위</value>
+    <value>ランダム</value>
   </data>
   
   <data name="osuframework_windowed" xml:space="preserve">
-    <value>창 모드</value>
+    <value>ウィンドウ付き</value>
   </data>
   <data name="osuframework_borderless" xml:space="preserve">
-    <value>테두리 없는 창모드</value>
+    <value>ボーダーレス</value>
   </data>
   <data name="osuframework_fullscreen" xml:space="preserve">
-    <value>전체 화면</value>
+    <value>フルスクリーン</value>
   </data>
   
   <data name="osuframework_singleThread" xml:space="preserve">
-    <value>싱글 스레드</value>
+    <value>単一スレッド</value>
   </data>
   <data name="osuframework_multiThreaded" xml:space="preserve">
-    <value>멀티 스레드</value>
+    <value>マルチスレッド</value>
   </data>
   
   <data name="osuframework_renderer_automatic" xml:space="preserve">
-    <value>자동 선택</value>
+    <value>自動</value>
   </data>
 
- <data name="osuframework_osd_framelimiter" xml:space="preserve">
-    <value>프레임 제한</value>
+  <data name="osuframework_osd_framelimiter" xml:space="preserve">
+    <value>フレーム リミッタ</value>
   </data>
   <data name="osuframework_osd_ExecutionMode" xml:space="preserve">
-    <value>스레드 모드</value>
+    <value>実行モード</value>
   </data>
   <data name="osuframework_osd_AudioDevice" xml:space="preserve">
-    <value>오디오 출력 장치</value>
+    <value>オーディオデバイス</value>
   </data>
   <data name="osuframework_osd_AudioDevice_default" xml:space="preserve">
-    <value>기본값</value>
+    <value>デフォルト</value>
   </data>
   <data name="osuframework_osd_ShowLogOverlay" xml:space="preserve">
-    <value>디버그 로그 오버레이</value>
+    <value>デバッグ ログ</value>
   </data>
   <data name="osuframework_osd_ShowLogOverlay_on" xml:space="preserve">
-    <value>켜짐</value>
+    <value>目に見える</value>
   </data>
   <data name="osuframework_osd_ShowLogOverlay_off" xml:space="preserve">
-    <value>꺼짐</value>
+    <value>隠れた</value>
   </data>
   <data name="osuframework_osd_WindowedSize" xml:space="preserve">
-    <value>화면 해상도</value>
+    <value>画面解像度</value>
   </data>
   <data name="osuframework_osd_WindowMode" xml:space="preserve">
-    <value>화면 모드</value>
+    <value>画面モード</value>
   </data>
   <data name="osuframework_osd_CursorSensitivity" xml:space="preserve">
-    <value>커서 감도</value>
+    <value>カーソル感度</value>
   </data>
   <data name="osuframework_osd_CursorSensitivity_resetKey" xml:space="preserve">
-    <value>Ctrl+Alt+R를 눌러서 초기화</value>
+    <value>リセットする Ctrl+Alt+R</value>
   </data>
   <data name="osuframework_osd_IgnoredInputHandlers" xml:space="preserve">
-    <value>고정밀 마우스</value>
+    <value>未加工の入力</value>
   </data>
   <data name="osuframework_osd_IgnoredInputHandlers_on" xml:space="preserve">
-    <value>켜짐</value>
+    <value>有効</value>
   </data>
   <data name="osuframework_osd_IgnoredInputHandlers_off" xml:space="preserve">
-    <value>꺼짐</value>
+    <value>障害のある</value>
   </data>
-
 </root>

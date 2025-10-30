@@ -118,4 +118,47 @@
   <data name="osuframework_renderer_automatic" xml:space="preserve">
     <value>Automatic</value>
   </data>
+
+  <data name="osuframework_osd_framelimiter" xml:space="preserve">
+    <value>Frame Limiter</value>
+  </data>
+  <data name="osuframework_osd_ExecutionMode" xml:space="preserve">
+    <value>Execution Mode</value>
+  </data>
+  <data name="osuframework_osd_AudioDevice" xml:space="preserve">
+    <value>Audio Device</value>
+  </data>
+  <data name="osuframework_osd_AudioDevice_default" xml:space="preserve">
+    <value>Default</value>
+  </data>
+  <data name="osuframework_osd_ShowLogOverlay" xml:space="preserve">
+    <value>Debug Logs</value>
+  </data>
+  <data name="osuframework_osd_ShowLogOverlay_on" xml:space="preserve">
+    <value>visible</value>
+  </data>
+  <data name="osuframework_osd_ShowLogOverlay_off" xml:space="preserve">
+    <value>hidden</value>
+  </data>
+  <data name="osuframework_osd_WindowedSize" xml:space="preserve">
+    <value>Screen resolution</value>
+  </data>
+  <data name="osuframework_osd_WindowMode" xml:space="preserve">
+    <value>Screen Mode</value>
+  </data>
+  <data name="osuframework_osd_CursorSensitivity" xml:space="preserve">
+    <value>Cursor Sensitivity</value>
+  </data>
+  <data name="osuframework_osd_CursorSensitivity_resetKey" xml:space="preserve">
+    <value>Ctrl+Alt+R to reset</value>
+  </data>
+  <data name="osuframework_osd_IgnoredInputHandlers" xml:space="preserve">
+    <value>Raw Input</value>
+  </data>
+  <data name="osuframework_osd_IgnoredInputHandlers_on" xml:space="preserve">
+    <value>enabled</value>
+  </data>
+  <data name="osuframework_osd_IgnoredInputHandlers_off" xml:space="preserve">
+    <value>disabled</value>
+  </data>
 </root>
