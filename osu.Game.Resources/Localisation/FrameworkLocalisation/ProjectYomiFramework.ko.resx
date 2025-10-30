@@ -187,7 +187,7 @@
     <value>Parent Object 선택</value>
   </data>
   <data name="DrawVisualiser_toggleInspector" xml:space="preserve">
-    <value>인스펙터 보이기/숨기기</value>
+    <value>인스펙터 토글</value>
   </data>
   
   <data name="GlobalStatisticsDisplay" xml:space="preserve">
