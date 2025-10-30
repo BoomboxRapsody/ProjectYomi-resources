@@ -174,4 +174,57 @@
   <data name="FPSDisplay_Draw" xml:space="preserve">
     <value>Draw</value>
   </data>
+  
+  <data name="DrawVisualiser" xml:space="preserve">
+    <value>Draw Visualiser</value>
+  </data>
+  <data name="DrawVisualiser_toggle" xml:space="preserve">
+    <value>(Ctrl+F1 to toggle)</value>
+  </data>
+  <data name="DrawVisualiser_waiting" xml:space="preserve">
+    <value>Waiting for target selection...</value>
+  </data>
+  <data name="DrawVisualiser_chooseTarget" xml:space="preserve">
+    <value>choose target</value>
+  </data>
+  <data name="DrawVisualiser_upOneParent" xml:space="preserve">
+    <value>up one parent</value>
+  </data>
+  <data name="DrawVisualiser_toggleInspector" xml:space="preserve">
+    <value>toggle inspector</value>
+  </data>
+  
+  <data name="GlobalStatisticsDisplay" xml:space="preserve">
+    <value>Global Statistics</value>
+  </data>
+  <data name="GlobalStatisticsDisplay_toggle" xml:space="preserve">
+    <value>(Ctrl+F2 to toggle)</value>
+  </data>
+  
+  <data name="TextureVisualiser" xml:space="preserve">
+    <value>Textures</value>
+  </data>
+  <data name="TextureVisualiser_toggle" xml:space="preserve">
+    <value>(Ctrl+F3 to toggle)</value>
+  </data>
+  
+  <data name="AudioMixerVisualiser" xml:space="preserve">
+    <value>AudioMixer</value>
+  </data>
+  <data name="AudioMixerVisualiser_toggle" xml:space="preserve">
+    <value>(Ctrl+F9 to toggle)</value>
+  </data>
+  
+  <data name="PerformanceOverlay_Renderer" xml:space="preserve">
+    <value>Renderer:</value>
+  </data>
+  <data name="PerformanceOverlay_Limiter" xml:space="preserve">
+    <value>Limiter:</value>
+  </data>
+  <data name="PerformanceOverlay_Execution" xml:space="preserve">
+    <value>Execution:</value>
+  </data>
+  <data name="PerformanceOverlay_Mode" xml:space="preserve">
+    <value>Mode:</value>
+  </data>
 </root>

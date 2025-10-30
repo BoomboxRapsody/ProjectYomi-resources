@@ -170,4 +170,57 @@
   <data name="FPSDisplay_Draw" xml:space="preserve">
     <value>드로잉</value>
   </data>
+  
+  <data name="DrawVisualiser" xml:space="preserve">
+    <value>드로잉 비주얼라이저</value>
+  </data>
+  <data name="DrawVisualiser_toggle" xml:space="preserve">
+    <value>(Ctrl+F1로 보이기/숨기기)</value>
+  </data>
+  <data name="DrawVisualiser_waiting" xml:space="preserve">
+    <value>대상 선택을 기다리는 중...</value>
+  </data>
+  <data name="DrawVisualiser_chooseTarget" xml:space="preserve">
+    <value>대상 선택</value>
+  </data>
+  <data name="DrawVisualiser_upOneParent" xml:space="preserve">
+    <value>Parent Object 선택</value>
+  </data>
+  <data name="DrawVisualiser_toggleInspector" xml:space="preserve">
+    <value>인스펙터 보이기/숨기기</value>
+  </data>
+  
+  <data name="GlobalStatisticsDisplay" xml:space="preserve">
+    <value>글로벌 통계</value>
+  </data>
+  <data name="GlobalStatisticsDisplay_toggle" xml:space="preserve">
+    <value>(Ctrl+F2로 보이기/숨기기)</value>
+  </data>
+  
+  <data name="TextureVisualiser" xml:space="preserve">
+    <value>텍스처</value>
+  </data>
+  <data name="TextureVisualiser_toggle" xml:space="preserve">
+    <value>(Ctrl+F3로 보이기/숨기기)</value>
+  </data>
+  
+  <data name="AudioMixerVisualiser" xml:space="preserve">
+    <value>오디오 믹서</value>
+  </data>
+  <data name="AudioMixerVisualiser_toggle" xml:space="preserve">
+    <value>(Ctrl+F9로 보이기/숨기기)</value>
+  </data>
+  
+  <data name="PerformanceOverlay_Renderer" xml:space="preserve">
+    <value>렌더러:</value>
+  </data>
+  <data name="PerformanceOverlay_Limiter" xml:space="preserve">
+    <value>프레임 제한:</value>
+  </data>
+  <data name="PerformanceOverlay_Execution" xml:space="preserve">
+    <value>스레드 모드:</value>
+  </data>
+  <data name="PerformanceOverlay_Mode" xml:space="preserve">
+    <value>화면 모드:</value>
+  </data>
 </root>

@@ -174,4 +174,57 @@
   <data name="FPSDisplay_Draw" xml:space="preserve">
     <value>描く</value>
   </data>
+  
+  <data name="DrawVisualiser" xml:space="preserve">
+    <value>描画ビジュアライザ</value>
+  </data>
+  <data name="DrawVisualiser_toggle" xml:space="preserve">
+    <value>(Ctrl+F1 を切り替える場合)</value>
+  </data>
+  <data name="DrawVisualiser_waiting" xml:space="preserve">
+    <value>ターゲットの選択を待っています···</value>
+  </data>
+  <data name="DrawVisualiser_chooseTarget" xml:space="preserve">
+    <value>ターゲットを選択する</value>
+  </data>
+  <data name="DrawVisualiser_upOneParent" xml:space="preserve">
+    <value>一人の親の上に</value>
+  </data>
+  <data name="DrawVisualiser_toggleInspector" xml:space="preserve">
+    <value>トグル検査官</value>
+  </data>
+  
+  <data name="GlobalStatisticsDisplay" xml:space="preserve">
+    <value>グローバル統計</value>
+  </data>
+  <data name="GlobalStatisticsDisplay_toggle" xml:space="preserve">
+    <value>(Ctrl+F2 を切り替える場合)</value>
+  </data>
+  
+  <data name="TextureVisualiser" xml:space="preserve">
+    <value>テクスチャ</value>
+  </data>
+  <data name="TextureVisualiser_toggle" xml:space="preserve">
+    <value>(Ctrl+F3 を切り替える場合)</value>
+  </data>
+  
+  <data name="AudioMixerVisualiser" xml:space="preserve">
+    <value>オーディオミキサー</value>
+  </data>
+  <data name="AudioMixerVisualiser_toggle" xml:space="preserve">
+    <value>(Ctrl+F9 を切り替える場合)</value>
+  </data>
+  
+  <data name="PerformanceOverlay_Renderer" xml:space="preserve">
+    <value>レンダラ:</value>
+  </data>
+  <data name="PerformanceOverlay_Limiter" xml:space="preserve">
+    <value>リミッター:</value>
+  </data>
+  <data name="PerformanceOverlay_Execution" xml:space="preserve">
+    <value>実行:</value>
+  </data>
+  <data name="PerformanceOverlay_Mode" xml:space="preserve">
+    <value>モード:</value>
+  </data>
 </root>
