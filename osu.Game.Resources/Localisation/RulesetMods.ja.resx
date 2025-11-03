@@ -60,66 +60,70 @@
   </resheader>
   
   <data name="ModAutoplay_description" xml:space="preserve">
-    <value>자동으로 연주되는 완벽한 플레이를 감상하세요.</value>
+    <value>歌を通して完璧な自動演奏を見ることができます。</value>
   </data>
-  
+
   <data name="ModCinema_description" xml:space="preserve">
-    <value>시각적 방해 없이 동영상을 시청하세요.</value>
+    <value>視覚的な雑音なしでビデオをご覧ください。</value>
   </data>
 
   <data name="ModDoubleTime_description" xml:space="preserve">
-    <value>빨라아아아아아아아!!</value>
+    <value>Zoooooooooom···</value>
   </data>
 
   <data name="ModFlashlight_description" xml:space="preserve">
-    <value>마우스 주변의 제한된 부분만 보입니다.</value>
+    <value>表示領域が制限されています。</value>
   </data>
 
   <data name="ModHalfTime_description" xml:space="preserve">
-    <value>느려진다아아아아!</value>
+    <value>ズームを小さく···</value>
   </data>
 
   <data name="ModHardRock_description" xml:space="preserve">
-    <value>조금 어려워질 거예요...</value>
+    <value>すべてが少し難しくなっただけ…···</value>
   </data>
 
   <data name="ModNightcore_description" xml:space="preserve">
-    <value>꺄아아아아아아아!!</value>
+    <value>Uguuuuuuuu···</value>
   </data>
 
   <data name="ModNoFail_description" xml:space="preserve">
-    <value>죽지 않습니다. 무슨 일이 있더라도 말이죠.</value>
+    <value>何があっても失敗はできない。</value>
   </data>
 
   <data name="ModPerfect_description" xml:space="preserve">
-    <value>SS가 아니면 죽음을!</value>
+    <value>SS または終了。</value>
+  </data>
+
+  <data name="ModScoreV2_description" xml:space="preserve">
+    <value>V2スコアリングアルゴリズムがアクティブな以前のosu!バージョンのスコアセット。</value>
   </data>
 
   <data name="ModSuddenDeath_description" xml:space="preserve">
-    <value>노트를 놓치는 순간 너의 목숨은 없다.</value>
+    <value>失敗と失敗。</value>
   </data>
-  
+
   <data name="ModEasy_description" xml:space="preserve">
-    <value>전반적인 난이도를 내립니다. 서클이 커지고, HP 흡수가 넉넉해지며, 판정이 쉬워집니다</value>
+    <value>全体的な難易度を下げる。 より大きな円、より多くのHP吸収、より簡単に判断可能</value>
   </data>
   
   <data name="ModDaycore_description" xml:space="preserve">
-    <value>와...</value>
+    <value>ふぅ···</value>
   </data>
   
   <data name="ModHidden_description" xml:space="preserve">
-    <value>어프로치 서클이 없고 희미해지는 동그라미/슬라이더 없이 플레이하세요.</value>
+    <value>アプローチサークルやフェージングサークル/スライダーがない状態でプレイしてください。</value>
   </data>
   
   <data name="ModBlinds_description" xml:space="preserve">
-    <value>화면에서 블라인드로 플레이하세요.</value>
+    <value>スクリーンにブラインドをあてて遊びましょう。</value>
   </data>
   
   <data name="ModAccuracyChallenge_description" xml:space="preserve">
-    <value>정확도가 너무 낮으면 실패합니다!</value>
+    <value>精度が低すぎると失敗する！</value>
   </data>
   
   <data name="ModRelax_description" xml:space="preserve">
-    <value>클릭할 필요가 없습니다. 손가락을 클릭하거나 두드리는 것만으로도 뜨거운 열기에서 벗어날 수 있습니다.</value>
+    <value>クリックする必要はありません。 物の暑さから手を離し、カチカチと音を立てて指をたたいてください。</value>
   </data>
 </root>

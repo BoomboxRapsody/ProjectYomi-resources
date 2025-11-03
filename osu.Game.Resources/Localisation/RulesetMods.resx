@@ -102,4 +102,28 @@
   <data name="ModSuddenDeath_description" xml:space="preserve">
     <value>Miss and fail.</value>
   </data>
+
+  <data name="ModEasy_description" xml:space="preserve">
+    <value>Lower overall difficulty. Larger circles, more HP absorption, easier to judge</value>
+  </data>
+  
+  <data name="ModDaycore_description" xml:space="preserve">
+    <value>Whoaaaaa...</value>
+  </data>
+  
+  <data name="ModHidden_description" xml:space="preserve">
+    <value>Play with no approach circles and fading circles/sliders.</value>
+  </data>
+  
+  <data name="ModBlinds_description" xml:space="preserve">
+    <value>Play with blinds on your screen.</value>
+  </data>
+  
+  <data name="ModAccuracyChallenge_description" xml:space="preserve">
+    <value>Fail if your accuracy drops too low!</value>
+  </data>
+  
+  <data name="ModRelax_description" xml:space="preserve">
+    <value>You don't need to click. Give your clicking/tapping fingers a break from the heat of things.</value>
+  </data>
 </root>
