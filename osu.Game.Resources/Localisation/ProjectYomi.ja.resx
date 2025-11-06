@@ -76,4 +76,17 @@
   <data name="ExternalEditScreen_cleaning" xml:space="preserve">
     <value>片付け中···</value>
   </data>
+  
+  <data name="NewAuto" xml:space="preserve">
+    <value>yomi!auto+使用</value>
+  </data>
+  <data name="NewAuto_Desc" xml:space="preserve">
+    <value>Project Yomiの新しい自動プレイシステムと既存のosu!自動プレイシステムを使用するかどうかを決定します。</value>
+  </data>
+  <data name="NewAuto_On" xml:space="preserve">
+    <value>オン</value>
+  </data>
+  <data name="NewAuto_Off" xml:space="preserve">
+    <value>オフ</value>
+  </data>
 </root>

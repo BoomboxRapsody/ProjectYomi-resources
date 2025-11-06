@@ -76,4 +76,17 @@
   <data name="ExternalEditScreen_cleaning" xml:space="preserve">
     <value>Cleaning up...</value>
   </data>
+  
+  <data name="NewAuto" xml:space="preserve">
+    <value>Use yomi!auto+</value>
+  </data>
+  <data name="NewAuto_Desc" xml:space="preserve">
+    <value>Decide whether to use Project Yomi's new autoplay system and the existing osu! autoplay system.</value>
+  </data>
+  <data name="NewAuto_On" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="NewAuto_Off" xml:space="preserve">
+    <value>Off</value>
+  </data>
 </root>
