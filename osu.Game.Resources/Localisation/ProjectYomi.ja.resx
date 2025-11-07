@@ -89,4 +89,7 @@
   <data name="NewAuto_Off" xml:space="preserve">
     <value>オフ</value>
   </data>
+  <data name="UseOldMenuSound" xml:space="preserve">
+    <value>古いメニューサウンドの使用</value>
+  </data>
 </root>

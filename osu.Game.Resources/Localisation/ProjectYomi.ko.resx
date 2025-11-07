@@ -89,4 +89,7 @@
   <data name="NewAuto_Off" xml:space="preserve">
     <value>꺼짐</value>
   </data>
+  <data name="UseOldMenuSound" xml:space="preserve">
+    <value>오래된 메뉴 사운드 사용</value>
+  </data>
 </root>
