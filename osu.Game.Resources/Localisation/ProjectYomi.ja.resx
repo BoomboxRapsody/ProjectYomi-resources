@@ -92,4 +92,7 @@
   <data name="UseOldMenuSound" xml:space="preserve">
     <value>古いメニューサウンドの使用</value>
   </data>
+  <data name="MissingSplineLibrary" xml:space="preserve">
+    <value>yomi!auto+ を再生するために必要なファイルが存在しないようです。\r\nosu! レガシーオートプレイ。</value>
+  </data>
 </root>

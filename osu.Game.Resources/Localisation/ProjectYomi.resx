@@ -92,4 +92,7 @@
   <data name="UseOldMenuSound" xml:space="preserve">
     <value>Use Old Menu Sounds</value>
   </data>
+  <data name="MissingSplineLibrary" xml:space="preserve">
+    <value>The file required to play yomi!auto+ does not appear to be present.\r\nFalling back to osu! legacy autoplay.</value>
+  </data>
 </root>
