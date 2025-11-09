@@ -95,4 +95,73 @@
   <data name="MissingSplineLibrary" xml:space="preserve">
     <value>yomi!auto+ を再生するために必要なファイルが存在しないようです。\r\nosu! レガシーオートプレイ。</value>
   </data>
+  
+  <data name="QuickPlay" xml:space="preserve">
+    <value>クイックプレイ</value>
+  </data>
+  <data name="QuickPlay_exit" xml:space="preserve">
+    <value>本当にお見合いの行列を去りますか？</value>
+  </data>
+  <data name="QuickPlay_BeginQueueing" xml:space="preserve">
+    <value>キューイングの開始</value>
+  </data>
+  <data name="QuickPlay_waiting" xml:space="preserve">
+    <value>ゲームを待っています···</value>
+  </data>
+  <data name="QuickPlay_QueueInBackground" xml:space="preserve">
+    <value>バックグラウンドでキューイング</value>
+  </data>
+  <data name="QuickPlay_QueueInBackground_Tooltip" xml:space="preserve">
+    <value>このオプションが使用可能になるまで 5 秒間待ちます。</value>
+  </data>
+  <data name="QuickPlay_QueueInBackground_Tooltip_Enabled" xml:space="preserve">
+    <value>ゲームの準備が完了すると、通知が表示されます。 気をつけてください！</value>
+  </data>
+  <data name="QuickPlay_found" xml:space="preserve">
+    <value>マッチを見つけた！</value>
+  </data>
+  <data name="QuickPlay_found_btn" xml:space="preserve">
+    <value>Joinマッチ！</value>
+  </data>
+  <data name="QuickPlay_waitingPlayers" xml:space="preserve">
+    <value>すべてのプレイヤーを待っている···</value>
+  </data>
+  <data name="QuickPlay_goodLuck" xml:space="preserve">
+    <value>幸運を祈る！</value>
+  </data>
+  
+  <data name="matchmaking_round" xml:space="preserve">
+    <value>ラウンド</value>
+  </data>
+  <data name="matchmaking_WaitingForClientsJoin" xml:space="preserve">
+    <value>他のユーザーを待っている</value>
+  </data>
+  <data name="matchmaking_RoundWarmupTime" xml:space="preserve">
+    <value>次のラウンド</value>
+  </data>
+  <data name="matchmaking_UserBeatmapSelect" xml:space="preserve">
+    <value>ビートマップの選択</value>
+  </data>
+  <data name="matchmaking_GameplayWarmupTime" xml:space="preserve">
+    <value>準備</value>
+  </data>
+  <data name="matchmaking_ResultsDisplaying" xml:space="preserve">
+    <value>結果</value>
+  </data>
+  <data name="matchmaking_Ended" xml:space="preserve">
+    <value>マッチエンド</value>
+  </data>
+  
+  <data name="matchmaking_status_WaitingForClientsJoin" xml:space="preserve">
+    <value>選手たちが試合に参加している…···</value>
+  </data>
+  <data name="matchmaking_status_WaitingForClientsBeatmapDownload" xml:space="preserve">
+    <value>プレイヤーはビートマップをダウンロードしています···</value>
+  </data>
+  <data name="matchmaking_status_Gameplay" xml:space="preserve">
+    <value>ゲーム進行中···</value>
+  </data>
+  <data name="matchmaking_status_Ended" xml:space="preserve">
+    <value>遊んでくれてありがとう！ 試合はまもなく終了します。</value>
+  </data>
 </root>

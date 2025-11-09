@@ -95,4 +95,73 @@
   <data name="MissingSplineLibrary" xml:space="preserve">
     <value>The file required to play yomi!auto+ does not appear to be present.\r\nFalling back to osu! legacy autoplay.</value>
   </data>
+  
+  <data name="QuickPlay" xml:space="preserve">
+    <value>Quick Play</value>
+  </data>
+  <data name="QuickPlay_exit" xml:space="preserve">
+    <value>Are you sure you want to leave the matchmaking queue?</value>
+  </data>
+  <data name="QuickPlay_BeginQueueing" xml:space="preserve">
+    <value>Begin queueing</value>
+  </data>
+  <data name="QuickPlay_waiting" xml:space="preserve">
+    <value>Waiting for a game...</value>
+  </data>
+  <data name="QuickPlay_QueueInBackground" xml:space="preserve">
+    <value>Queue in background</value>
+  </data>
+  <data name="QuickPlay_QueueInBackground_Tooltip" xml:space="preserve">
+    <value>Wait 5 seconds for this option to become available.</value>
+  </data>
+  <data name="QuickPlay_QueueInBackground_Tooltip_Enabled" xml:space="preserve">
+    <value>You will receive a notification when your game is ready. Make sure to watch out for it!</value>
+  </data>
+  <data name="QuickPlay_found" xml:space="preserve">
+    <value>Found a match!</value>
+  </data>
+  <data name="QuickPlay_found_btn" xml:space="preserve">
+    <value>Join match!</value>
+  </data>
+  <data name="QuickPlay_waitingPlayers" xml:space="preserve">
+    <value>Waiting for all players...</value>
+  </data>
+  <data name="QuickPlay_goodLuck" xml:space="preserve">
+    <value>Good luck!</value>
+  </data>
+  
+  <data name="matchmaking_round" xml:space="preserve">
+    <value>Round</value>
+  </data>
+  <data name="matchmaking_WaitingForClientsJoin" xml:space="preserve">
+    <value>Waiting for other users</value>
+  </data>
+  <data name="matchmaking_RoundWarmupTime" xml:space="preserve">
+    <value>Next Round</value>
+  </data>
+  <data name="matchmaking_UserBeatmapSelect" xml:space="preserve">
+    <value>Beatmap Selection</value>
+  </data>
+  <data name="matchmaking_GameplayWarmupTime" xml:space="preserve">
+    <value>Get Ready</value>
+  </data>
+  <data name="matchmaking_ResultsDisplaying" xml:space="preserve">
+    <value>Results</value>
+  </data>
+  <data name="matchmaking_Ended" xml:space="preserve">
+    <value>Match End</value>
+  </data>
+  
+  <data name="matchmaking_status_WaitingForClientsJoin" xml:space="preserve">
+    <value>Players are joining the match...</value>
+  </data>
+  <data name="matchmaking_status_WaitingForClientsBeatmapDownload" xml:space="preserve">
+    <value>Players are downloading the beatmap...</value>
+  </data>
+  <data name="matchmaking_status_Gameplay" xml:space="preserve">
+    <value>Game is in progress...</value>
+  </data>
+  <data name="matchmaking_status_Ended" xml:space="preserve">
+    <value>Thanks for playing! The match will close shortly.</value>
+  </data>
 </root>

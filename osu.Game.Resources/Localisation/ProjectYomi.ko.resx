@@ -95,4 +95,73 @@
   <data name="MissingSplineLibrary" xml:space="preserve">
     <value>yomi!auto+을 플레이하는 데 필요한 파일이 없는 것 같습니다.\r\n대신 osu!autoplay로 플레이합니다.</value>
   </data>
+  
+  <data name="QuickPlay" xml:space="preserve">
+    <value>빠른 멀티플레이</value>
+  </data>
+  <data name="QuickPlay_exit" xml:space="preserve">
+    <value>매칭 대기열을 떠나시겠습니까?</value>
+  </data>
+  <data name="QuickPlay_BeginQueueing" xml:space="preserve">
+    <value>매치 찾기</value>
+  </data>
+  <data name="QuickPlay_waiting" xml:space="preserve">
+    <value>게임을 기다리는 중...</value>
+  </data>
+  <data name="QuickPlay_QueueInBackground" xml:space="preserve">
+    <value>백그라운드에서 대기</value>
+  </data>
+  <data name="QuickPlay_QueueInBackground_Tooltip" xml:space="preserve">
+    <value>이 옵션을 사용할 수 있을 때까지 5초간 기다려주세요.</value>
+  </data>
+  <data name="QuickPlay_QueueInBackground_Tooltip_Enabled" xml:space="preserve">
+    <value>게임이 준비되면 알림을 받게 됩니다. 꼭 조심하세요!</value>
+  </data>
+  <data name="QuickPlay_found" xml:space="preserve">
+    <value>매치을 찾았습니다!</value>
+  </data>
+  <data name="QuickPlay_found_btn" xml:space="preserve">
+    <value>매치 참여하기</value>
+  </data>
+  <data name="QuickPlay_waitingPlayers" xml:space="preserve">
+    <value>모든 플레이어를 기다리는 중...</value>
+  </data>
+  <data name="QuickPlay_goodLuck" xml:space="preserve">
+    <value>행운을 빌어요!</value>
+  </data>
+  
+  <data name="matchmaking_round" xml:space="preserve">
+    <value>라운드</value>
+  </data>
+  <data name="matchmaking_WaitingForClientsJoin" xml:space="preserve">
+    <value>다른 플레이어를 기다리는 중</value>
+  </data>
+  <data name="matchmaking_RoundWarmupTime" xml:space="preserve">
+    <value>다음 라운드</value>
+  </data>
+  <data name="matchmaking_UserBeatmapSelect" xml:space="preserve">
+    <value>비트맵 선택</value>
+  </data>
+  <data name="matchmaking_GameplayWarmupTime" xml:space="preserve">
+    <value>준비 완료</value>
+  </data>
+  <data name="matchmaking_ResultsDisplaying" xml:space="preserve">
+    <value>결과</value>
+  </data>
+  <data name="matchmaking_Ended" xml:space="preserve">
+    <value>매치 끝</value>
+  </data>
+  
+  <data name="matchmaking_status_WaitingForClientsJoin" xml:space="preserve">
+    <value>다른 플레이어가 매치에 참가하고 있습니다...</value>
+  </data>
+  <data name="matchmaking_status_WaitingForClientsBeatmapDownload" xml:space="preserve">
+    <value>다른 플레이어가 비트맵을 다운로드하는 중입니다...</value>
+  </data>
+  <data name="matchmaking_status_Gameplay" xml:space="preserve">
+    <value>게임이 진행 중입니다...</value>
+  </data>
+  <data name="matchmaking_status_Ended" xml:space="preserve">
+    <value>수고하셨습니다! 이 매치는 짧은 시간 안에 끝납니다.</value>
+  </data>
 </root>
