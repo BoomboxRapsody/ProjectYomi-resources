@@ -251,7 +251,7 @@
     <value>이전 볼륨 미터기</value>
   </data>
   <data name="next_volume_meter" xml:space="preserve">
-    <value>이전 볼륨 미터기</value>
+    <value>다음 볼륨 미터기</value>
   </data>
   <data name="seek_replay_forward" xml:space="preserve">
     <value>리플레이 빨리감기</value>
