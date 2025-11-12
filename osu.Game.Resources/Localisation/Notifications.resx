@@ -115,7 +115,7 @@ Please try changing your audio device to a working setting.</value>
     <value>Your local copy of the beatmap for this replay appears to be different than expected. You may need to update or re-download it.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>You are now running osu! {0}.
+    <value>You are now running Project Yomi {0}.
 Click to see what's new!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

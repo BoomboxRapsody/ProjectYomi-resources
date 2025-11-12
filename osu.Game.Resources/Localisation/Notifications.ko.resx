@@ -115,7 +115,7 @@
     <value>본 리플레이에 필요한 비트맵의 파일이 아무래도 아닌 것 같아요. 업데이트를 하거나 재다운로드를 받아야 할 수도 있어요.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>현재 osu! {0} 을 구동 중입니다.
+    <value>현재 Project Yomi {0} 을 구동 중입니다.
 여기를 누르시면 변경 사항을 확인하실 수 있어요!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">
