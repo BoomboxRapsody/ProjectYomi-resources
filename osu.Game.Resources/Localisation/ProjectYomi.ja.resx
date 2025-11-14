@@ -164,4 +164,18 @@
   <data name="matchmaking_status_Ended" xml:space="preserve">
     <value>遊んでくれてありがとう！ 試合はまもなく終了します。</value>
   </data>
+  
+  <data name="reflex_title" xml:space="preserve">
+    <value>NVIDIA Reflex</value>
+  </data>
+  <data name="reflex_desc" xml:space="preserve">
+    <value>NVIDIA GPUでNVIDIA Reflex APIを活用することで、遅延を削減します。\nオンにすることをお勧めします。オフにするのは、問題が発生した場合だけです。</value>
+  </data>
+  <data name="reflex_boost_enabled" xml:space="preserve">
+    <value>ブーストにより GPU の消費電力が増加し、場合によってはレイテンシが増加することがあります。 問題が発生した場合は、ブーストを無効にします。</value>
+  </data>
+  
+  <data name="RulesetOsu_ShowAutoplayCursor" xml:space="preserve">
+    <value>ゲームプレイカーソルを表示</value>
+  </data>
 </root>

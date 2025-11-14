@@ -164,4 +164,18 @@
   <data name="matchmaking_status_Ended" xml:space="preserve">
     <value>Thanks for playing! The match will close shortly.</value>
   </data>
+  
+  <data name="reflex_title" xml:space="preserve">
+    <value>NVIDIA Reflex</value>
+  </data>
+  <data name="reflex_desc" xml:space="preserve">
+    <value>Reduces latency by leveraging the NVIDIA Reflex API on NVIDIA GPUs.\nRecommended to have On, turn off only if experiencing issues.</value>
+  </data>
+  <data name="reflex_boost_enabled" xml:space="preserve">
+    <value>Boost increases GPU power consumption and may increase latency in some cases. Disable Boost if experiencing issues.</value>
+  </data>
+  
+  <data name="RulesetOsu_ShowAutoplayCursor" xml:space="preserve">
+    <value>Show gameplay cursor</value>
+  </data>
 </root>
