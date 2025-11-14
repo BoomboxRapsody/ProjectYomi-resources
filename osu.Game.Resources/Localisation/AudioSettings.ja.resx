@@ -106,4 +106,13 @@
   <data name="offset_wizard" xml:space="preserve">
     <value>オフセットウィザード</value>
   </data>
+  <data name="wasapi_label" xml:space="preserve">
+    <value>実験オーディオモードを使用します</value>
+  </data>
+  <data name="wasapi_tooltip" xml:space="preserve">
+    <value>これにより、低遅延モードでオーディオ エンジンを初期化しようとします。</value>
+  </data>
+  <data name="wasapi_notice" xml:space="preserve">
+    <value>遅延時間が短縮されるため、この設定を有効にするときにオーディオ オフセットを調整する必要があります。 一般に、既知の値から 20 ~ 60 ミリ秒を差し引くことを想定しています。</value>
+  </data>
 </root>
