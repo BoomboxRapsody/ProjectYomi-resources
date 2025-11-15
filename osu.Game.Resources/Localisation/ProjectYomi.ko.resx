@@ -213,4 +213,19 @@
   <data name="Intro_BBiJilGe" xml:space="preserve">
     <value>아야츠노 유니 - 삐질게</value>
   </data>
+  
+  <data name="AudioSettings" xml:space="preserve">
+    <value>오디오 설정</value>
+  </data>
+  
+  <data name="PlaybackSettings" xml:space="preserve">
+    <value>리플레이 재생</value>
+  </data>
+  <data name="PlaybackSettings_PlaybackRate" xml:space="preserve">
+    <value>재생 속도</value>
+  </data>
+  
+  <data name="VisualSettings" xml:space="preserve">
+    <value>비주얼 설정</value>
+  </data>
 </root>

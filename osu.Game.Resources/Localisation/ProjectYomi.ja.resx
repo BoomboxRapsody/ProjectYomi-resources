@@ -213,4 +213,23 @@
   <data name="Intro_BBiJilGe" xml:space="preserve">
     <value>Ayatsuno Yuni - BBiJilGe</value>
   </data>
+  
+  <data name="AudioSettings" xml:space="preserve">
+    <value>オーディオ設定</value>
+  </data>
+  
+  <data name="PlaybackSettings" xml:space="preserve">
+    <value>再生</value>
+  </data>
+  <data name="PlaybackSettings_PlaybackRate" xml:space="preserve">
+    <value>再生速度</value>
+  </data>
+  
+  <data name="VisualSettings" xml:space="preserve">
+    <value>ビジュアル設定</value>
+  </data>
+  
+  <data name="InputSettings" xml:space="preserve">
+    <value>入力設定</value>
+  </data>
 </root>
