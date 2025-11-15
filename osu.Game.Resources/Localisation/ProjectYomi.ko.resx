@@ -209,4 +209,8 @@
   <data name="display_length" xml:space="preserve">
     <value>표시 범위</value>
   </data>
+  
+  <data name="Intro_BBiJilGe" xml:space="preserve">
+    <value>아야츠노 유니 - 삐질게</value>
+  </data>
 </root>

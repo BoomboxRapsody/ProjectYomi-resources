@@ -209,4 +209,8 @@
   <data name="display_length" xml:space="preserve">
     <value>表示長</value>
   </data>
+  
+  <data name="Intro_BBiJilGe" xml:space="preserve">
+    <value>Ayatsuno Yuni - BBiJilGe</value>
+  </data>
 </root>
