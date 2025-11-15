@@ -178,4 +178,15 @@
   <data name="RulesetOsu_ShowAutoplayCursor" xml:space="preserve">
     <value>ゲームプレイカーソルを表示</value>
   </data>
+  
+  <data name="WindowsCompatibilityModeChecker_notification_text" xml:space="preserve">
+    <value>Project Yomi は互換モードで実行されています。 これはゲームに問題を引き起こす可能性があります。 Project Yomi が互換モードで実行されるように設定されていないことを確認します。</value>
+  </data>
+  
+  <data name="breakoverlay_currentprogress" xml:space="preserve">
+    <value>現在の進捗状況</value>
+  </data>
+  <data name="breakoverlay_grade" xml:space="preserve">
+    <value>グレード</value>
+  </data>
 </root>

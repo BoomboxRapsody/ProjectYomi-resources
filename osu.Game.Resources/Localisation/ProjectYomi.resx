@@ -178,4 +178,15 @@
   <data name="RulesetOsu_ShowAutoplayCursor" xml:space="preserve">
     <value>Show gameplay cursor</value>
   </data>
+  
+  <data name="WindowsCompatibilityModeChecker_notification_text" xml:space="preserve">
+    <value>Project Yomi is running in compatibility mode. This may cause issues with the game. Please ensure Project Yomi is not set to run in compatibility mode.</value>
+  </data>
+  
+  <data name="breakoverlay_currentprogress" xml:space="preserve">
+    <value>CURRENT PROGRESS</value>
+  </data>
+  <data name="breakoverlay_grade" xml:space="preserve">
+    <value>Grade</value>
+  </data>
 </root>

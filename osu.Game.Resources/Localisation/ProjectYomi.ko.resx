@@ -178,4 +178,15 @@
   <data name="RulesetOsu_ShowAutoplayCursor" xml:space="preserve">
     <value>게임플레이 커서 표시</value>
   </data>
+  
+  <data name="WindowsCompatibilityModeChecker_notification_text" xml:space="preserve">
+    <value>Project Yomi가 호환 모드로 실행 중입니다. 이로 인해 게임에 문제가 발생할 수 있습니다. Project Yomi가 호환 모드로 실행되지 않도록 설정해 주세요.</value>
+  </data>
+  
+  <data name="breakoverlay_currentprogress" xml:space="preserve">
+    <value>현재 진행 상황</value>
+  </data>
+  <data name="breakoverlay_grade" xml:space="preserve">
+    <value>등급</value>
+  </data>
 </root>
