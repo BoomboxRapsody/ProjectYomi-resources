@@ -189,4 +189,24 @@
   <data name="breakoverlay_grade" xml:space="preserve">
     <value>등급</value>
   </data>
+  
+  <data name="analysis_settings_title" xml:space="preserve">
+    <value>분석 설정</value>
+  </data>
+  
+  <data name="show_click_markers" xml:space="preserve">
+    <value>클릭 마커 표시</value>
+  </data>
+  <data name="show_frame_markers" xml:space="preserve">
+    <value>프레임 마커 표시</value>
+  </data>
+  <data name="show_cursor_path" xml:space="preserve">
+    <value>커서 경로 표시</value>
+  </data>
+  <data name="hide_gameplay_cursor" xml:space="preserve">
+    <value>게임플레이 커서 숨기기</value>
+  </data>
+  <data name="display_length" xml:space="preserve">
+    <value>표시 범위</value>
+  </data>
 </root>

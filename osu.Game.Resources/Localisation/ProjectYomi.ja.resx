@@ -189,4 +189,24 @@
   <data name="breakoverlay_grade" xml:space="preserve">
     <value>グレード</value>
   </data>
+  
+  <data name="analysis_settings_title" xml:space="preserve">
+    <value>分析設定</value>
+  </data>
+  
+  <data name="show_click_markers" xml:space="preserve">
+    <value>クリックマーカーを表示</value>
+  </data>
+  <data name="show_frame_markers" xml:space="preserve">
+    <value>フレームマーカーを表示</value>
+  </data>
+  <data name="show_cursor_path" xml:space="preserve">
+    <value>カーソルパスを表示</value>
+  </data>
+  <data name="hide_gameplay_cursor" xml:space="preserve">
+    <value>ゲームプレイカーソルを非表示にする</value>
+  </data>
+  <data name="display_length" xml:space="preserve">
+    <value>表示長</value>
+  </data>
 </root>
