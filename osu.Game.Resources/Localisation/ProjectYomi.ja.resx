@@ -232,4 +232,18 @@
   <data name="InputSettings" xml:space="preserve">
     <value>入力設定</value>
   </data>
+  
+  <data name="icon" xml:space="preserve">
+    <value>アイコン</value>
+  </data>
+  <data name="icon_colour" xml:space="preserve">
+    <value>アイコンの色</value>
+  </data>
+  <data name="icon_colour_description" xml:space="preserve">
+    <value>アイコンの色です。</value>
+  </data>
+  
+  <data name="no_cinema_mod" xml:space="preserve">
+    <value>現在のルールセットには映画モードがありません！</value>
+  </data>
 </root>

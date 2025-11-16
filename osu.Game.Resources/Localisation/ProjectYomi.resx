@@ -232,4 +232,18 @@
   <data name="InputSettings" xml:space="preserve">
     <value>Input Settings</value>
   </data>
+  
+  <data name="icon" xml:space="preserve">
+    <value>Icon</value>
+  </data>
+  <data name="icon_colour" xml:space="preserve">
+    <value>Icon Colour</value>
+  </data>
+  <data name="icon_colour_description" xml:space="preserve">
+    <value>The colour of the icon.</value>
+  </data>
+  
+  <data name="no_cinema_mod" xml:space="preserve">
+    <value>The current ruleset doesn't have a cinema mod available!</value>
+  </data>
 </root>

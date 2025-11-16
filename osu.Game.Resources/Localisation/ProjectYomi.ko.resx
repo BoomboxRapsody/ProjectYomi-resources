@@ -228,4 +228,18 @@
   <data name="VisualSettings" xml:space="preserve">
     <value>비주얼 설정</value>
   </data>
+  
+  <data name="icon" xml:space="preserve">
+    <value>아이콘</value>
+  </data>
+  <data name="icon_colour" xml:space="preserve">
+    <value>아이콘 색상</value>
+  </data>
+  <data name="icon_colour_description" xml:space="preserve">
+    <value>아이콘의 색상을 결정합니다.</value>
+  </data>
+  
+  <data name="no_cinema_mod" xml:space="preserve">
+    <value>지금의 룰셋으로는 Cinema 모드 사용이 불가능해요!</value>
+  </data>
 </root>
