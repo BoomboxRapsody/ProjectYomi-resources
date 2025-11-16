@@ -242,4 +242,12 @@
   <data name="no_cinema_mod" xml:space="preserve">
     <value>지금의 룰셋으로는 Cinema 모드 사용이 불가능해요!</value>
   </data>
+  
+  <data name="separate_all_difficulties" xml:space="preserve">
+    <value>모든 난이도 분리</value>
+  </data>
+  
+  <data name="gameplay_volume" xml:space="preserve">
+    <value>게임플레이 음량</value>
+  </data>
 </root>

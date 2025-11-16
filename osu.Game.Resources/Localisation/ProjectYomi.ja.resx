@@ -246,4 +246,12 @@
   <data name="no_cinema_mod" xml:space="preserve">
     <value>現在のルールセットには映画モードがありません！</value>
   </data>
+  
+  <data name="separate_all_difficulties" xml:space="preserve">
+    <value>すべての困難を切り離す</value>
+  </data>
+  
+  <data name="gameplay_volume" xml:space="preserve">
+    <value>音をミュートにする</value>
+  </data>
 </root>

@@ -246,4 +246,12 @@
   <data name="no_cinema_mod" xml:space="preserve">
     <value>The current ruleset doesn't have a cinema mod available!</value>
   </data>
+  
+  <data name="separate_all_difficulties" xml:space="preserve">
+    <value>Separate all difficulties</value>
+  </data>
+  
+  <data name="mute_hitsounds" xml:space="preserve">
+    <value>Mute hitsounds</value>
+  </data>
 </root>
