@@ -254,4 +254,8 @@
   <data name="gameplay_volume" xml:space="preserve">
     <value>音をミュートにする</value>
   </data>
+  
+  <data name="Intro_RamenILoveYou" xml:space="preserve">
+    <value>Neko Hacker - Ramen I Love You feat. ななひら, をとは</value>
+  </data>
 </root>

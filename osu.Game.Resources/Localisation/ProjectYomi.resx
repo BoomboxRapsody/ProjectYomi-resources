@@ -254,4 +254,8 @@
   <data name="mute_hitsounds" xml:space="preserve">
     <value>Mute hitsounds</value>
   </data>
+  
+  <data name="Intro_RamenILoveYou" xml:space="preserve">
+    <value>Neko Hacker - Ramen I Love You feat. Nanahira, Wotoha</value>
+  </data>
 </root>

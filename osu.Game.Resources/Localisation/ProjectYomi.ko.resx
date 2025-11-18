@@ -250,4 +250,8 @@
   <data name="gameplay_volume" xml:space="preserve">
     <value>게임플레이 음량</value>
   </data>
+  
+  <data name="Intro_RamenILoveYou" xml:space="preserve">
+    <value>Neko Hacker - Ramen I Love You feat. 나나히라, 오토하</value>
+  </data>
 </root>
