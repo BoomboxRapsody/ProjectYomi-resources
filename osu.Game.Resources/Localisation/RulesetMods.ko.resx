@@ -99,7 +99,7 @@
     <value>노트를 놓치는 순간 너의 목숨은 없다.</value>
   </data>
   
-  <data name="ModEasy_description" xml:space="preserve">
+  <data name="osuRuleset_ModEasy_description" xml:space="preserve">
     <value>전반적인 난이도를 내립니다. 서클이 커지고, HP 흡수가 넉넉해지며, 판정이 쉬워집니다</value>
   </data>
   
@@ -107,7 +107,7 @@
     <value>와...</value>
   </data>
   
-  <data name="ModHidden_description" xml:space="preserve">
+  <data name="osuRuleset_ModHidden_description" xml:space="preserve">
     <value>어프로치 서클이 없고 희미해지는 동그라미/슬라이더 없이 플레이하세요.</value>
   </data>
   
@@ -119,7 +119,71 @@
     <value>정확도가 너무 낮으면 실패합니다!</value>
   </data>
   
-  <data name="ModRelax_description" xml:space="preserve">
+  <data name="osuRuleset_ModRelax_description" xml:space="preserve">
     <value>클릭할 필요가 없습니다. 손가락을 클릭하거나 두드리는 것만으로도 뜨거운 열기에서 벗어날 수 있습니다.</value>
+  </data>
+  
+  <data name="osuRuleset_ModStrictTracking_description" xml:space="preserve">
+    <value>슬라이더를 시작하면 정확하게 따라가세요. 중간에 놓으면 콤보가 끊겨요..</value>
+  </data>
+  
+  <data name="ModIncognito_description" xml:space="preserve">
+    <value>몇 가지 게임 플레이 요소를 가립니다.</value>
+  </data>
+  
+  <data name="taikoRuleset_ModHidden_description" xml:space="preserve">
+    <value>비트를 치기 전에 먼저 사라집니다!</value>
+  </data>
+  
+  <data name="taikoRuleset_ModSimplifiedRhythm_description" xml:space="preserve">
+    <value>까다로운 리듬을 단순화하세요!</value>
+  </data>
+  
+  <data name="taikoRuleset_ModRelax_description" xml:space="preserve">
+    <value>더 이상 어떤 키가 맞는지 기억할 필요가 없어요!</value>
+  </data>
+  
+  <data name="taikoRuleset_ModEasy_description" xml:space="preserve">
+    <value>비트는 느리게 움직이고 높은 정확도는 필요가 없습니다.</value>
+  </data>
+  
+  <data name="ModAutopilot_description" xml:space="preserve">
+    <value>자동 커서 이동 - 리듬을 따르세요.</value>
+  </data>
+  
+  <data name="ModSpunOut_description" xml:space="preserve">
+    <value>스피너가 자동으로 처리됩니다.</value>
+  </data>
+  
+  <data name="ModWindUp_description" xml:space="preserve">
+    <value>끝까지 가능할까요..?</value>
+  </data>
+  
+  <data name="ModWindDown_description" xml:space="preserve">
+    <value>으아아아아..... 느리게 간다.......</value>
+  </data>
+  
+  <data name="ModMuted_description" xml:space="preserve">
+    <value>음악 없이 리듬을 느낄 수 있을까요..?</value>
+  </data>
+  
+  <data name="ModAdaptiveSpeed_description" xml:space="preserve">
+    <value>당신을 위해 속도를 맞춰드릴게요.</value>
+  </data>
+  
+  <data name="catchRuleset_ModEasy_description" xml:space="preserve">
+    <value>과일이 커지고, HP 소모량이 적고, 추가적인 삶을 더 적은 삶을 살 수 있습니다!</value>
+  </data>
+  
+  <data name="catchRuleset_ModRelax_description" xml:space="preserve">
+    <value>마우스를 사용하여 포수를 제어할 수 있습니다.</value>
+  </data>
+  
+  <data name="maniaRuleset_ModNoRelease_description" xml:space="preserve">
+    <value>홀드 노트의 종료 시점을 더 이상 측정하지 않습니다.</value>
+  </data>
+  
+  <data name="maniaRuleset_ModCover_description" xml:space="preserve">
+    <value>플레이 영역의 시야를 줄입니다.</value>
   </data>
 </root>

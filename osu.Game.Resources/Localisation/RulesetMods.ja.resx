@@ -103,7 +103,7 @@
     <value>失敗と失敗。</value>
   </data>
 
-  <data name="ModEasy_description" xml:space="preserve">
+  <data name="osuRuleset_ModEasy_description" xml:space="preserve">
     <value>全体的な難易度を下げる。 より大きな円、より多くのHP吸収、より簡単に判断可能</value>
   </data>
   
@@ -111,7 +111,7 @@
     <value>ふぅ···</value>
   </data>
   
-  <data name="ModHidden_description" xml:space="preserve">
+  <data name="osuRuleset_ModHidden_description" xml:space="preserve">
     <value>アプローチサークルやフェージングサークル/スライダーがない状態でプレイしてください。</value>
   </data>
   
@@ -123,7 +123,71 @@
     <value>精度が低すぎると失敗する！</value>
   </data>
   
-  <data name="ModRelax_description" xml:space="preserve">
+  <data name="osuRuleset_ModRelax_description" xml:space="preserve">
     <value>クリックする必要はありません。 物の暑さから手を離し、カチカチと音を立てて指をたたいてください。</value>
+  </data>
+  
+  <data name="osuRuleset_ModStrictTracking_description" xml:space="preserve">
+    <value>スライダを起動したら、正確にフォローするか、ミスを犯します。</value>
+  </data>
+  
+  <data name="ModIncognito_description" xml:space="preserve">
+    <value>いくつかのゲームプレイ要素を曖昧にします。</value>
+  </data>
+  
+  <data name="taikoRuleset_ModHidden_description" xml:space="preserve">
+    <value>打つ前にビートがフェードアウト！</value>
+  </data>
+  
+  <data name="taikoRuleset_ModSimplifiedRhythm_description" xml:space="preserve">
+    <value>トリッキーなリズムをシンプルに！</value>
+  </data>
+  
+  <data name="taikoRuleset_ModRelax_description" xml:space="preserve">
+    <value>もはやどちらのキーが正しいか覚えておく必要はありません！</value>
+  </data>
+  
+  <data name="taikoRuleset_ModEasy_description" xml:space="preserve">
+    <value>ビートの動きは遅く、必要な精度は低くなる！</value>
+  </data>
+  
+  <data name="ModAutopilot_description" xml:space="preserve">
+    <value>自動カーソル移動 - リズムに従うだけです。</value>
+  </data>
+  
+  <data name="ModSpunOut_description" xml:space="preserve">
+    <value>スピナーは自動的に完成します。</value>
+  </data>
+  
+  <data name="ModWindUp_description" xml:space="preserve">
+    <value>あなたは元気ですか？</value>
+  </data>
+  
+  <data name="ModWindDown_description" xml:space="preserve">
+    <value>あ··· ゆっくり進んでますね···</value>
+  </data>
+  
+  <data name="ModMuted_description" xml:space="preserve">
+    <value>音楽なしでリズムを感じることはできますか？</value>
+  </data>
+  
+  <data name="ModAdaptiveSpeed_description" xml:space="preserve">
+    <value>スピード感はあなたに合わせましょう。</value>
+  </data>
+  
+  <data name="catchRuleset_ModEasy_description" xml:space="preserve">
+    <value>より大きな果実、より寛容なHPドレン、必要な精度の低下、余分な寿命！</value>
+  </data>
+  
+  <data name="catchRuleset_ModRelax_description" xml:space="preserve">
+    <value>マウスを使用してキャッチャを制御します。</value>
+  </data>
+  
+  <data name="maniaRuleset_ModNoRelease_description" xml:space="preserve">
+    <value>保留音の終了タイミングはもうありません。</value>
+  </data>
+  
+  <data name="maniaRuleset_ModCover_description" xml:space="preserve">
+    <value>プレイフィールドの表示領域を縮小します。</value>
   </data>
 </root>
