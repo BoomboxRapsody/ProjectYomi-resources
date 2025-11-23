@@ -254,4 +254,8 @@
   <data name="Intro_RamenILoveYou" xml:space="preserve">
     <value>Neko Hacker - Ramen I Love You feat. 나나히라, 오토하</value>
   </data>
+  
+  <data name="FontAdjustableSkinComponent_IsItalic" xml:space="preserve">
+    <value>텍스트 기울이기</value>
+  </data>
 </root>

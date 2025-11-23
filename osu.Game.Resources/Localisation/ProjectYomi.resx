@@ -258,4 +258,8 @@
   <data name="Intro_RamenILoveYou" xml:space="preserve">
     <value>Neko Hacker - Ramen I Love You feat. Nanahira, Wotoha</value>
   </data>
+  
+  <data name="FontAdjustableSkinComponent_IsItalic" xml:space="preserve">
+    <value>Italic</value>
+  </data>
 </root>
