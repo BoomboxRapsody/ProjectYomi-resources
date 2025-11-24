@@ -340,4 +340,13 @@
   <data name="editor_discard_unsaved_changes" xml:space="preserve">
     <value>未保存の変更を破棄</value>
   </data>
+  <data name="boss_key" xml:space="preserve">
+    <value>ボスキー</value>
+  </data>
+  <data name="toggle_effects_mute" xml:space="preserve">
+    <value>エフェクトミュートの切り替え</value>
+  </data>
+  <data name="toggle_music_mute" xml:space="preserve">
+    <value>音楽ミュートの切り替え</value>
+  </data>
 </root>

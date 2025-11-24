@@ -340,4 +340,13 @@
   <data name="editor_discard_unsaved_changes" xml:space="preserve">
     <value>Discard unsaved changes</value>
   </data>
+  <data name="boss_key" xml:space="preserve">
+    <value>Boss Key</value>
+  </data>
+  <data name="toggle_effects_mute" xml:space="preserve">
+    <value>Toggle effects mute</value>
+  </data>
+  <data name="toggle_music_mute" xml:space="preserve">
+    <value>Toggle music mute</value>
+  </data>
 </root>
