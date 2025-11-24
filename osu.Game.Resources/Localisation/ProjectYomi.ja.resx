@@ -262,4 +262,16 @@
   <data name="FontAdjustableSkinComponent_IsItalic" xml:space="preserve">
     <value>イタリック体</value>
   </data>
+  
+  <data name="holdToMenu" xml:space="preserve">
+    <value>メニューにこだわる</value>
+  </data>
+  
+  <data name="pressToMenu" xml:space="preserve">
+    <value>押すとメニューが表示される</value>
+  </data>
+  
+  <data name="UseSDL3" xml:space="preserve">
+    <value>SDL3ホストの使用（試験的）</value>
+  </data>
 </root>
