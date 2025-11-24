@@ -274,4 +274,28 @@
   <data name="UseSDL3" xml:space="preserve">
     <value>Use SDL3 host (Experimental)</value>
   </data>
+  
+  <data name="FpsDisplayMode" xml:space="preserve">
+    <value>FPS Display Mode</value>
+  </data>
+  
+  <data name="FpsDisplayMode_None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  
+  <data name="FpsDisplayMode_Minimal" xml:space="preserve">
+    <value>Minimal</value>
+  </data>
+  
+  <data name="FpsDisplayMode_Default" xml:space="preserve">
+    <value>Default</value>
+  </data>
+  
+  <data name="FpsDisplayMode_Full" xml:space="preserve">
+    <value>Full</value>
+  </data>
+  
+  <data name="SwitchFpsDisplayMode" xml:space="preserve">
+    <value>Switch FPS Display Mode</value>
+  </data>
 </root>
