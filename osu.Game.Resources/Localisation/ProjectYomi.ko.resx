@@ -294,4 +294,28 @@
   <data name="SwitchFpsDisplayMode" xml:space="preserve">
     <value>FPS 표시 모드 켬/끔</value>
   </data>
+  
+  <data name="gameExiting_title" xml:space="preserve">
+    <value>Project Yomi를 종료하시겠습니까?</value>
+  </data>
+  
+  <data name="gameExiting_desc_lastChanceToTurnBack" xml:space="preserve">
+    <value>되돌릴 수 있는 마지막 기회입니다.</value>
+  </data>
+  
+  <data name="gameExiting_desc_HasOngoingOperations" xml:space="preserve">
+    <value>현재 계속하면 중단될 백그라운드 작업이 몇 가지 있습니다:</value>
+  </data>
+  
+  <data name="gameExiting_desc_HasOngoingOperations_more" xml:space="preserve">
+    <value>그리고 (taskCount)개가 수행되고 있어요</value>
+  </data>
+  
+  <data name="gameExiting_ok" xml:space="preserve">
+    <value>나 좀 빠져나가게 하줘........</value>
+  </data>
+  
+  <data name="gameExiting_cancel" xml:space="preserve">
+    <value>조금만 더 하구.......</value>
+  </data>
 </root>
