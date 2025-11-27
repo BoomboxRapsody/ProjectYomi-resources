@@ -318,4 +318,16 @@
   <data name="gameExiting_cancel" xml:space="preserve">
     <value>조금만 더 하구.......</value>
   </data>
+  
+  <data name="ToggleApplyModTrackAdjustments" xml:space="preserve">
+    <value>메인 메뉴 모드 트랙 조정 켜기/끄기</value>
+  </data>
+  
+  <data name="SwitchBackgroundSource" xml:space="preserve">
+    <value>배경 이미지 소스 전환</value>
+  </data>
+  
+  <data name="ToggleParallax" xml:space="preserve">
+    <value>시차 효과 켬/끔</value>
+  </data>
 </root>

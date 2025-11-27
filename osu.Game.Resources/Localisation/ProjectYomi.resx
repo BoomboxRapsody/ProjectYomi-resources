@@ -322,4 +322,16 @@
   <data name="gameExiting_cancel" xml:space="preserve">
     <value>Just a little more...</value>
   </data>
+  
+  <data name="ToggleApplyModTrackAdjustments" xml:space="preserve">
+    <value>Apply mod track adjustments On/Off</value>
+  </data>
+  
+  <data name="SwitchBackgroundSource" xml:space="preserve">
+    <value>Switch background source</value>
+  </data>
+  
+  <data name="ToggleParallax" xml:space="preserve">
+    <value>Parallax On/Off</value>
+  </data>
 </root>

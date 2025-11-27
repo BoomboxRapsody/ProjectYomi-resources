@@ -322,4 +322,16 @@
   <data name="gameExiting_cancel" xml:space="preserve">
     <value>もう少し···</value>
   </data>
+  
+  <data name="ToggleApplyModTrackAdjustments" xml:space="preserve">
+    <value>モードトラック調整のオン/オフの適用</value>
+  </data>
+  
+  <data name="SwitchBackgroundSource" xml:space="preserve">
+    <value>スイッチのバックグラウンド ソース</value>
+  </data>
+  
+  <data name="ToggleParallax" xml:space="preserve">
+    <value>パララックスのオン/オフ</value>
+  </data>
 </root>
