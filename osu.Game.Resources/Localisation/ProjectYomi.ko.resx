@@ -330,4 +330,32 @@
   <data name="ToggleParallax" xml:space="preserve">
     <value>시차 효과 켬/끔</value>
   </data>
+  
+  <data name="DebugSettings_Header" xml:space="preserve">
+    <value>디버그</value>
+  </data>
+  
+  <data name="DebugSettings_BypassFrontToBackPass" xml:space="preserve">
+    <value>front-to-back 렌더링 패스 우회</value>
+  </data>
+  
+  <data name="DebugSettings_ShowLogOverlay" xml:space="preserve">
+    <value>디버그 로그 오버레이 표시</value>
+  </data>
+  
+  <data name="DebugSettings_GC_Mode" xml:space="preserve">
+    <value>GC 모드</value>
+  </data>
+  
+  <data name="DebugSettings_GC_Collect" xml:space="preserve">
+    <value>모든 캐시 지우기</value>
+  </data>
+  
+  <data name="DebugSettings_Memory_Header" xml:space="preserve">
+    <value>메모리</value>
+  </data>
+  
+  <data name="ReflexOptions_Ultra" xml:space="preserve">
+    <value>울트라</value>
+  </data>
 </root>

@@ -334,4 +334,32 @@
   <data name="ToggleParallax" xml:space="preserve">
     <value>Parallax On/Off</value>
   </data>
+  
+  <data name="DebugSettings_Header" xml:space="preserve">
+    <value>Debug</value>
+  </data>
+  
+  <data name="DebugSettings_BypassFrontToBackPass" xml:space="preserve">
+    <value>Bypass front-to-back render pass</value>
+  </data>
+  
+  <data name="DebugSettings_ShowLogOverlay" xml:space="preserve">
+    <value>Show log overlay</value>
+  </data>
+  
+  <data name="DebugSettings_GC_Mode" xml:space="preserve">
+    <value>GC mode</value>
+  </data>
+  
+  <data name="DebugSettings_GC_Collect" xml:space="preserve">
+    <value>Clear all caches</value>
+  </data>
+  
+  <data name="DebugSettings_Memory_Header" xml:space="preserve">
+    <value>Memory</value>
+  </data>
+  
+  <data name="ReflexOptions_Ultra" xml:space="preserve">
+    <value>Ultra</value>
+  </data>
 </root>
