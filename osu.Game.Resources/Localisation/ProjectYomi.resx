@@ -366,4 +366,8 @@
   <data name="Use2017SongSelectDesign" xml:space="preserve">
     <value>Use old song select design</value>
   </data>
+  
+  <data name="CustomWelcomeSound" xml:space="preserve">
+    <value>Custom Welcome/Seeya Sound</value>
+  </data>
 </root>

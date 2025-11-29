@@ -362,4 +362,8 @@
   <data name="Use2017SongSelectDesign" xml:space="preserve">
     <value>오래된 곡 선택 디자인 사용</value>
   </data>
+  
+  <data name="CustomWelcomeSound" xml:space="preserve">
+    <value>사용자 지정 시작/종료 소리</value>
+  </data>
 </root>
