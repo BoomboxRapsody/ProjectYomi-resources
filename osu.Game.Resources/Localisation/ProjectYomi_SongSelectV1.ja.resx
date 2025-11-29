@@ -85,4 +85,11 @@
   <data name="ClearScoresBtn_Second" xml:space="preserve">
     <value>クリア</value>
   </data>
+  
+  <data name="EditBtn_First" xml:space="preserve">
+    <value>ビートマップの</value>
+  </data>
+  <data name="EditBtn_Second" xml:space="preserve">
+    <value>編集</value>
+  </data>
 </root>

@@ -85,4 +85,11 @@
   <data name="ClearScoresBtn_Second" xml:space="preserve">
     <value>local scores</value>
   </data>
+  
+  <data name="EditBtn_First" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="EditBtn_Second" xml:space="preserve">
+    <value>beatmap</value>
+  </data>
 </root>

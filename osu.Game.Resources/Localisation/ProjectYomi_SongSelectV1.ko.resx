@@ -85,4 +85,11 @@
   <data name="ClearScoresBtn_Second" xml:space="preserve">
     <value>로컬 점수 지우기</value>
   </data>
+  
+  <data name="EditBtn_First" xml:space="preserve">
+    <value>비트맵</value>
+  </data>
+  <data name="EditBtn_Second" xml:space="preserve">
+    <value>편집</value>
+  </data>
 </root>
