@@ -358,4 +358,8 @@
   <data name="ReflexOptions_Ultra" xml:space="preserve">
     <value>울트라</value>
   </data>
+  
+  <data name="Use2017SongSelectDesign" xml:space="preserve">
+    <value>오래된 곡 선택 디자인 사용</value>
+  </data>
 </root>

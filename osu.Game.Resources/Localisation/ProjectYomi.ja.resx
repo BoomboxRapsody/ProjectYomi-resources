@@ -362,4 +362,8 @@
   <data name="ReflexOptions_Ultra" xml:space="preserve">
     <value>ウルトラ</value>
   </data>
+  
+  <data name="Use2017SongSelectDesign" xml:space="preserve">
+    <value>古い曲のセレクトデザインを使用する</value>
+  </data>
 </root>
