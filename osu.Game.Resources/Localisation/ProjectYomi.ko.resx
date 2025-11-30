@@ -383,6 +383,10 @@
     <value>로그인</value>
   </data>
   
+  <data name="UserProfileMiniPanel_Ranking" xml:space="preserve">
+    <value>세계 순위: {0}</value>
+  </data>
+  
   <data name="UserProfileMiniPanel_SignOutCompleted" xml:space="preserve">
     <value>계정에서 로그아웃되었습니다.</value>
   </data>

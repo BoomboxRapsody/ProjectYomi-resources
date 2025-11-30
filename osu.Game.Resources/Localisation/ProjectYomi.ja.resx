@@ -387,6 +387,10 @@
     <value>ログイン</value>
   </data>
   
+  <data name="UserProfileMiniPanel_Ranking" xml:space="preserve">
+    <value>グローバルランキング:{0}</value>
+  </data>
+  
   <data name="UserProfileMiniPanel_SignOutCompleted" xml:space="preserve">
     <value>アカウントからログアウトされました。</value>
   </data>
