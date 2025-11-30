@@ -148,4 +148,7 @@
   <data name="menu_tip_title" xml:space="preserve">
     <value>꿀팁:</value>
   </data>
+  <data name="about_project_yomi" xml:space="preserve">
+    <value>Project Yomi는 osu!lazer의 단점을 보완하기 위해 만들어졌어요.</value>
+  </data>
 </root>

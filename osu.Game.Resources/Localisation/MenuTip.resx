@@ -151,4 +151,7 @@
   <data name="menu_tip_title" xml:space="preserve">
     <value>a tip for you:</value>
   </data>
+  <data name="about_project_yomi" xml:space="preserve">
+    <value>Project Yomi was created to solve the disadvantages of osu!lazer.</value>
+  </data>
 </root>
