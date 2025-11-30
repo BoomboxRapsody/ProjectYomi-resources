@@ -366,4 +366,24 @@
   <data name="CustomWelcomeSound" xml:space="preserve">
     <value>사용자 지정 시작/종료 소리</value>
   </data>
+  
+  <data name="UserProfileMiniPanel_ChangeOnlineState" xml:space="preserve">
+    <value>온라인 상태 변경</value>
+  </data>
+  
+  <data name="UserProfileMiniPanel_ViewProfile" xml:space="preserve">
+    <value>프로필 보기</value>
+  </data>
+  
+  <data name="UserProfileMiniPanel_SignOut" xml:space="preserve">
+    <value>로그아웃</value>
+  </data>
+  
+  <data name="UserProfileMiniPanel_SignIn" xml:space="preserve">
+    <value>로그인</value>
+  </data>
+  
+  <data name="UserProfileMiniPanel_SignOutCompleted" xml:space="preserve">
+    <value>계정에서 로그아웃되었습니다.</value>
+  </data>
 </root>

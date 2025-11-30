@@ -370,4 +370,24 @@
   <data name="CustomWelcomeSound" xml:space="preserve">
     <value>カスタムウェルカム/さよならサウンド</value>
   </data>
+  
+  <data name="UserProfileMiniPanel_ChangeOnlineState" xml:space="preserve">
+    <value>オンライン状態の変更</value>
+  </data>
+  
+  <data name="UserProfileMiniPanel_ViewProfile" xml:space="preserve">
+    <value>プロファイルの表示</value>
+  </data>
+  
+  <data name="UserProfileMiniPanel_SignOut" xml:space="preserve">
+    <value>ログアウト</value>
+  </data>
+  
+  <data name="UserProfileMiniPanel_SignIn" xml:space="preserve">
+    <value>ログイン</value>
+  </data>
+  
+  <data name="UserProfileMiniPanel_SignOutCompleted" xml:space="preserve">
+    <value>アカウントからログアウトされました。</value>
+  </data>
 </root>
